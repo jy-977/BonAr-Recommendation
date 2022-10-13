@@ -1,6 +1,7 @@
-# BonAr-Recommendation
+# BonAr**-Recommendation - Data Mining
  A project comparing 3 recommendation algorithms (with actual data from BonA*** which is a supermarket chain in Catalonia. 
-This project has done as part of the course of Master of Informatics Engineering of Universitat de Lleida from SEP/2021 - Feb/2022
+This project has done as part of the course of Master of Informatics Engineering of Universitat de Lleida from SEP/2021 - Feb/2022.
+
 이 프로젝트는 수퍼마켓 체인의 2019년 2020년 판매 데이터를 바탕으로 각각의 고객에게 맞춤 recommendation system을 제공하는것을 목표로 한다. 
 
 ### 기대효과
