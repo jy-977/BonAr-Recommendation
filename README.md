@@ -1,31 +1,20 @@
-# BonAr**-Recommendation - Data Mining
- A project comparing 3 recommendation algorithms (with actual data from BonA*** which is a supermarket chain in Catalonia. 
-This project has done as part of the course of Master of Informatics Engineering of Universitat de Lleida from SEP/2021 - Feb/2022.
+# Recommendation System - Data Mining
+ A project comparing 3 recommendation algorithms (with actual data from BonA*** which is a supermarket chain in Catalonia. This project has done as part of the course of Master of Informatics Engineering of Universitat de Lleida from SEP/2021 - Feb/2022. We aim to suggest customer-oriented recommendation system based on sales data during 2019-2020.
 
-이 프로젝트는 수퍼마켓 체인의 2019년 2020년 판매 데이터를 바탕으로 각각의 고객에게 맞춤 recommendation system을 제공하는것을 목표로 한다. 
-
-### 기대효과
-user oriented recommender 을 통해 잠재 고객의 수를 확보하고 고객의 편리성증가를 통해 충성도를 높인다. 
-recommender 알림에 따라 추가 판매 수익을 기대할 수 있다. 
-
-readme 비즈니스파트랑 / algorithm 분야로 나눠서 설명하는게 나을듯. 괜히 섞이니까 훨 길어지고 가시성 떨어짐
-
-## Purpose of the project
+## <b> MOTIVATION</b> History of Recommender Systems
 
 <div align="center"> 
   
 ![history of recommendation algorithms](https://miro.medium.com/max/640/1*LOWHd7gVCXOB08OhQaOiyw.jpeg)
 </div>
 
-우리가 이 프로젝트를 계획한 이유중 하나로, 추천 시스템의 발전에 있어 다양한 방법들이 시도되어왔다. 이러한 흥미로운 시도들을 직접 설계하고 디자인 함으로서, Datamining을 실습하고 추천 시스템 , which is 근래 ml 분야중 광범위 하게 쓰이는 ,의 깊은 이해를 목표로 한다.
-이중, 수업에서 이론적으로 다뤘던 1) FP-Growth를 시작으로 recommender system 의 큰 한 축을 담당하는 2) collaborative filtering - (memory based filtering : user-based) / 와  3)model basetraining - neural network 방식을 시도한다 
-recommendation system 의 분류에 대한 자세한 설명은 .. 에서 확인가능함
+As one of the purposes of this project, We have studied the history of the recommendation system. The recommendation system is one of the most common services in which machine learning is used. By designing and implementing 3 solutions for the recommendation system, We will be able to understand and practice ML skills. We will try 1) FP-growth which is presented in the course, collaborative filtering (memory-based filtering: user-based), and Neural Network (collaborative filtering - model-based training). For a detailed description of the Recommendation system, follow this [link]()
 
-1. To contribute the sales rate of Bon Ar**, we suggest 3 solutions to recommend products from customer's purchasing record.
-2. As a project of Data Mining course of [Universitat de Lleida](https://masterinformatica.udl.cat/es/), We design and implement the 3 different of recommendation system using **FP-Growth**, **Collaborative Filtering**, **Neural Network**
-3. We deal with actual selling data during 2019 - 2020 year from Bon AR** which has more than 500 stores in Catalonia.
-4. By comparing 3 recommendation system, We analyze the performance and result of each system and algorithm. 
-
+## <b>Objectives</b>
+1. To contribute to the sales rate of Bon Ar**, we suggest 3 solutions to recommend products from the customer's purchasing record.
+2. As a project of the Data Mining course at [Universitat de Lleida](https://masterinformatica.udl.cat/es/), We design and implement the 3 different recommendation systems using **FP-Growth**, **Collaborative Filtering**, **Neural Network**
+3. We deal with actual selling data during the 2019 - 2020 year from Bon AR** which has more than 500 stores in Catalonia.
+4. By comparing 3 recommendation systems, We analyze the performance and result of each system and algorithm
 
 
 # Methdologies 
@@ -42,6 +31,8 @@ https://ars.els-cdn.com/content/image/1-s2.0-S1110866515000341-gr2.jpg)
 ## 3. Neural Network (Model Base Training)
 
 
+
+## <b>Environment</b>
 
 
 ### Contributors 
@@ -76,3 +67,11 @@ Keywords: Collaborative filtering; Content-based filtering; Hybrid filtering tec
 
 </div>
 </details>
+
+
+
+### 기대효과
+user oriented recommender 을 통해 잠재 고객의 수를 확보하고 고객의 편리성증가를 통해 충성도를 높인다. 
+recommender 알림에 따라 추가 판매 수익을 기대할 수 있다. 
+
+readme 비즈니스파트랑 / algorithm 분야로 나눠서 설명하는게 나을듯. 괜히 섞이니까 훨 길어지고 가시성 떨어짐
